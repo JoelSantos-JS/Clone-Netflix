@@ -1,0 +1,13 @@
+
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+
+ body {
+    background: #151320;
+    padding: 0 1rem 0 0rem;
+    color: whitesmoke;
+ }
